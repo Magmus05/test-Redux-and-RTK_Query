@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-react-and-rtk_query/static/css/main.9f37a52b.css",
+    "main.js": "/test-react-and-rtk_query/static/js/main.706f16f2.js",
+    "index.html": "/test-react-and-rtk_query/index.html",
+    "main.9f37a52b.css.map": "/test-react-and-rtk_query/static/css/main.9f37a52b.css.map",
+    "main.706f16f2.js.map": "/test-react-and-rtk_query/static/js/main.706f16f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f37a52b.css",
+    "static/js/main.706f16f2.js"
+  ]
+}
