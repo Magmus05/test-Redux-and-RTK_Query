@@ -17,7 +17,11 @@ code {
   padding: 20px;
 
 }
-
+.post-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .post__list{
   display: flex;
   flex-direction: column;
@@ -43,13 +47,17 @@ code {
 .post-page__comments-list{
   display: flex;
   flex-direction: column;
-  gap: 5px
+  gap: 5px;
+  padding: 0;
+
 }
 .comment{
   display: flex;
   flex-direction: column;
   border: 1px solid grey;
   padding: 10px;
+  max-width: 500px;
+
 
 }
 .comment__name , .comment__email , .comment__body{

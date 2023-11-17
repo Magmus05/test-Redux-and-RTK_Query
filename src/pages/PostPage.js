@@ -16,10 +16,10 @@ function PostPage() {
   const curentComments = useGetCurentCommentsQuery({
     id: params.id,
   });
-
+console.log(curentPost);
   return (
     <section className="post-page">
-					<button style={{marginBottom:"10px"}}><Link to="/"> На главную</Link></button>
+					<button style={{marginBottom:"10px"}}><Link to="/test-react-and-rtk-query"> На главную</Link></button>
       {curentPost.data && curentComments.data ? (
         <>
           <div className="container__postItem">

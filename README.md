@@ -14,4 +14,4 @@
 ### `npm run start`
 
 ## Ссылка на сайт:
-https://magmus05.github.io/test-react-and-rtk_query/
+https://magmus05.github.io/test-react-and-rtk-query/

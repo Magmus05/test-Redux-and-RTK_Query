@@ -2,7 +2,7 @@
   "name": "test-react-and-rtk_query",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Magmus05.github.io/test-react-and-rtk_query",
+  "homepage": "https://magmus05.github.io/test-react-and-rtk-query",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
